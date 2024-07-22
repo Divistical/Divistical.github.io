@@ -1,3 +1,5 @@
-# Divistical.github.io
-My personal website
+# Dae Hoon Chung
+
+Welcome to my personal website!
+
 
